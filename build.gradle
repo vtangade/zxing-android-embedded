@@ -16,8 +16,8 @@ subprojects {
         mavenCentral()
     }
 
-    version = '4.3.0'
-    group = 'com.journeyapps'
+    version = '0.0.1'
+    group = 'com.vtangade'
 
     ext.androidTargetSdk = 30
     ext.zxingCore = 'com.google.zxing:core:3.4.1'
