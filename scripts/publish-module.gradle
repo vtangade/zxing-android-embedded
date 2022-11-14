@@ -52,6 +52,8 @@ afterEvaluate {
                     name = PUBLISH_ARTIFACT_ID
                     description = 'Zxing Android Embedded App'
                     url = 'https://github.com/vtangade/zxing-android-embedded'
+                    
+                   
                
                     scm {
                         connection = 'scm:git:github.com/vtangade/zxing-android-embedded.git'
